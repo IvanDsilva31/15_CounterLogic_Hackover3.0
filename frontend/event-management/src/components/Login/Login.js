@@ -61,7 +61,7 @@ function Login() {
             Login
           </button>
           <p>
-            Already have an account?{" "}
+            Create an account?{" "}
             <span>
               <Link to="/signup">Sign up</Link>
             </span>
