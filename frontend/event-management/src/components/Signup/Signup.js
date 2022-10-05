@@ -23,7 +23,7 @@ function Signup() {
 
   const handleSubmission = () => {
     if (!values.name || !values.email || !values.pass) {
-      setErrorMsg("Fill all fields");
+      setErrorMsg("Kindly Fill all fields");
       return;
     }
     setErrorMsg("");
